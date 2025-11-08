@@ -5,16 +5,18 @@ ffmpeg GUI一款基于 Python 与 Tkinter 开发的图形化 FFmpeg 媒体处理
 1. FFmpeg 官方网站
 text
 https://ffmpeg.org/download.html
-2. Windows 预编译版本
+
+3. Windows 预编译版本
 BtbN/FFmpeg-Builds (推荐)
-text
+
 https://github.com/BtbN/FFmpeg-Builds/releases
 Gyan.dev (推荐)
-text
+
 https://www.gyan.dev/ffmpeg/builds/
 Windows Essentials 版本
-text
+
 https://github.com/essential-overlay/ffmpeg-essentials/releases
+
 3. macOS 版本
 Homebrew
 bash

@@ -1,7 +1,7 @@
 # ffmpeg-GUI-
-ffmpeg GUI一款基于 Python 与 Tkinter 开发的图形化 FFmpeg 媒体处理工具，旨在为不熟悉命令行操作的用户提供简单、直观、功能强大的音视频处理体验。无论你是想转换格式、提取音视频、压缩文件，还是进行高级的编解码与滤镜处理，我都能帮你轻松完成。
+ffmpeg GUI一款基于 Python 与 Tkinter 开发的图形化 FFmpeg 媒体处理工具，旨在为不熟悉命令行操作的用户提供简单、直观、功能强大的音视频处理体验。无论你是想转换格式、提取音视频、压缩文件，还是进行高级的编解码与滤镜处理，该程序都能帮你轻松完成。
 
-# 使用前请安装FFMPEG
+# 使用前请安装ffmpeg
 # 1. FFmpeg 官方网站
 ```bash
 https://ffmpeg.org/download.html
@@ -98,7 +98,7 @@ https://ffmpeg.guide/
 
 支持常见音频格式：MP3、WAV、FLAC、AAC、M4A 等
 
-独家支持 NCM 加密音频文件转 MP3（内置解密 + ncmdump 支持）
+支持 NCM 加密音频文件转 MP3（内置解密 + ncmdump 支持）
 
 🎛️ 模块化操作界面
 基础转换：快速选择输出格式与质量

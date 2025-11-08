@@ -1,0 +1,2 @@
+# ffmpeg-GUI-
+使用deepseek辅助编写的ffmpeg用户图形界面程序，并引用ncmdump解密ncm文件以保证常用转换功能的完整性

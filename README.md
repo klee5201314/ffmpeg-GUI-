@@ -1,12 +1,12 @@
 # ffmpeg-GUI-
 ffmpeg GUI一款基于 Python 与 Tkinter 开发的图形化 FFmpeg 媒体处理工具，旨在为不熟悉命令行操作的用户提供简单、直观、功能强大的音视频处理体验。无论你是想转换格式、提取音视频、压缩文件，还是进行高级的编解码与滤镜处理，我都能帮你轻松完成。
 
-使用前请安装FFMPEG
-1. FFmpeg 官方网站
+#使用前请安装FFMPEG
+#1. FFmpeg 官方网站
 text
 https://ffmpeg.org/download.html
 
-3. Windows 预编译版本
+#2. Windows 预编译版本
 BtbN/FFmpeg-Builds (推荐)
 
 https://github.com/BtbN/FFmpeg-Builds/releases
@@ -17,7 +17,7 @@ Windows Essentials 版本
 
 https://github.com/essential-overlay/ffmpeg-essentials/releases
 
-3. macOS 版本
+#3. macOS 版本
 Homebrew
 bash
 brew install ffmpeg
@@ -26,24 +26,23 @@ https://formulae.brew.sh/formula/ffmpeg
 MacPorts
 bash
 sudo port install ffmpeg
-4. Linux 版本
+#4. Linux 版本
 各发行版包管理器
 bash
-# Ubuntu/Debian
+Ubuntu/Debian
 sudo apt update && sudo apt install ffmpeg
 
-# CentOS/RHEL/Fedora
+CentOS/RHEL/Fedora
 sudo dnf install ffmpeg
-# 或
+或
 sudo yum install ffmpeg
-
-# Arch Linux
+Arch Linux
 sudo pacman -S ffmpeg
 静态编译版本
 text
 https://johnvansickle.com/ffmpeg/
 
-📥 安装指南（Windows 用户）
+#📥 安装指南（Windows 用户）
 简易安装步骤：
 访问 https://github.com/BtbN/FFmpeg-Builds/releases
 
@@ -71,7 +70,7 @@ https://ffmpeg.guide/
 
 
 
-特色功能:
+#特色功能:
 🚀 硬件加速支持
 自动检测并支持 NVIDIA CUDA、Intel Quick Sync、AMD AMF、Apple VideoToolbox 等硬件编解码器
 
@@ -149,6 +148,6 @@ NCM 解密：集成 ncmdump 库与内置备用解密算法
 
 插件化架构，支持用户自定义脚本
 
-如果你正在寻找一个既强大又易用的本地音视频处理工具，不妨试试我 —— 一个懂你的 FFmpeg 图形化助手。
+#如果你正在寻找一个既强大又易用的本地音视频处理工具，不妨试试我 —— 一个懂你的 FFmpeg 图形化助手。
 
 🎉 让媒体处理，简单如点击。
